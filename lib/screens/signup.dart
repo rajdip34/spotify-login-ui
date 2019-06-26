@@ -182,7 +182,7 @@ class _SignUpState extends State<SignUp> {
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Text('Alrady in Sampurno?',
+              Text('Alrady in Spotify?',
               style: TextStyle(
                 fontFamily: 'Raleway',
                 fontWeight: FontWeight.bold,
